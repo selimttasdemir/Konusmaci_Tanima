@@ -1,5 +1,5 @@
 Konuşmacı Tanıma Projesi
-Bu, tam olarak çalışan bir konuşmacı tanıma projesidir. Proje, konuşmacının kimliğini belirlemek için ses dosyalarını kullanır ve Ysa1.ipynb dosyası kullanılarak önceden eğitilmiştir. TensorFlow kullanılarak geliştirilmiştir ve 2 ana konuşmacı ile 18 diğer konuşmacıyı temsil edecek şekilde toplam 20 konuşmacı tanıyabilir.
+Bu, tam olarak çalışan bir konuşmacı tanıma projesidir. Proje, konuşmacının kimliğini belirlemek için ses dosyalarını kullanır ve Ysa1.ipynb dosyası kullanılarak önceden eğitilmiştir. TensorFlow kullanılarak geliştirilmiştir ve 2 ana konuşmacı (emr,sel) ile 18 diğer konuşmacıyı temsil edecek şekilde toplam 20 konuşmacı tanıyabilir.
 
 Kurulum
 Gereksinimleri Yükleyin: Gerekli Python kütüphanelerini yükleyin.
@@ -20,6 +20,9 @@ model.py: Konuşmacı tanıma modelini yükler ve çalıştırır.
 Ysa1.ipynb: Modelin eğitildiği Jupyter Notebook dosyası.
 weights.h5: Önceden eğitilmiş model ağırlıkları.
 index.html: Ses dosyasının yüklendiği web arayüzü.
+
+archive: archive.zip i dışarı çıkararak yeniden eğitimde kullanabilirsiniz.Dosya boyutu yüksek olduğundan aşağıda drive linki mevcut. 
+https://drive.google.com/file/d/1Sp68VHftP_Z_1SdVaKZEeLF95i-NZadn/view?usp=drive_link
 
 Geliştirme
 Proje üzerinde değişiklik yapmak isterseniz, aşağıdaki adımları izleyerek yerel bir geliştirme ortamı kurabilirsiniz:

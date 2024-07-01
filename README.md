@@ -1,4 +1,6 @@
-KONUŞMACI TANIMA PROJESİ
+## KONUŞMACI TANIMA PROJESİ
+
+
 Proje, konuşmacının kimliğini belirlemek için ses dosyalarını kullanır ve Ysa1.ipynb dosyası kullanılarak önceden eğitilmiştir. TensorFlow kullanılarak geliştirilmiştir ve 2 ana konuşmacı (emr,sel) ile 18 diğer konuşmacıyı temsil edecek şekilde toplam 20 konuşmacı tanıyabilir.
 
 KURULUM

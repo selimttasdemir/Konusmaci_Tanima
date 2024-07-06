@@ -26,11 +26,11 @@ Ses Dosyasını Yükleyin: Web arayüzünde yeni bir ses dosyası yükleyin. Yü
 
 ### DOSYA YAPISI
 
-```app.py```: Flask uygulamasını çalıştırır ve web arayüzünü sağlar.
-```model.py```: Konuşmacı tanıma modelini yükler ve çalıştırır.
-```Ysa1.ipynb```: Modelin eğitildiği Jupyter Notebook dosyası.
-```weights.h5```: Önceden eğitilmiş model ağırlıkları.
-```index.html```: Ses dosyasının yüklendiği web arayüzü.
+```app.py```: Flask uygulamasını çalıştırır ve web arayüzünü sağlar.</br>
+```model.py```: Konuşmacı tanıma modelini yükler ve çalıştırır.</br>
+```Ysa1.ipynb```: Modelin eğitildiği Jupyter Notebook dosyası.</br>
+```weights.h5```: Önceden eğitilmiş model ağırlıkları.</br>
+```index.html```: Ses dosyasının yüklendiği web arayüzü.</br>
 
 archive: archive.zip'i dışarı çıkararak yeniden eğitimde kullanabilirsiniz.Dosya boyutu yüksek olduğundan aşağıda drive linki mevcut. 
 https://drive.google.com/file/d/1Sp68VHftP_Z_1SdVaKZEeLF95i-NZadn/view?usp=drive_link

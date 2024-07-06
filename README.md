@@ -40,14 +40,14 @@ https://drive.google.com/file/d/1Sp68VHftP_Z_1SdVaKZEeLF95i-NZadn/view?usp=drive
 Proje üzerinde değişiklik yapmak isterseniz, aşağıdaki adımları izleyerek yerel bir geliştirme ortamı kurabilirsiniz:
 
 Depoyu Kopyalayın:
-git clone https://github.com/kullanici-adi/proje-adi.git
-cd proje-adi
+```git clone https://github.com/kullanici-adi/proje-adi.git```
+```cd proje-adi```
 
 Sanal Ortam Oluşturun:
 
 ### Linux için
-python -m venv venv
-source venv/bin/activate  
+```python -m venv venv```
+```source venv/bin/activate```  
 ### Windows için: 
-venv\Scripts\activate
+```venv\Scripts\activate```
 
